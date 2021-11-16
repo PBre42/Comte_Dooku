@@ -7,9 +7,11 @@
 -Lahboub Lina
 -Lardon Lelio 
 
-### Sujet :#### Acquisition d'une grille de sudoku par vidéo et ressolution dela grille avec affichage dynamique depuis une interface graphique.
+### Sujet :
+#### Acquisition d'une grille de sudoku par vidéo et ressolution dela grille avec affichage dynamique depuis une interface graphique.
 
 ### Description du rendu final (IHM):
+
 
 ![This is an image](https://github.com/PBre42/Comte_Dooku/blob/main/Scheme.png?raw=true)
 
