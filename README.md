@@ -13,7 +13,7 @@
 ### Description du rendu final (IHM):
 
 
-![This is an image](/assets/images/Scheme.png)
+![This is an image](/Scheme.png)
 
 ### Planning previsionnel:
 
