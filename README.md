@@ -2,10 +2,10 @@
 ## Projet Vison
 
 ### Groupe:
--Bregnac Pierre
--Cassier Logan
--Lahboub Lina
--Lardon Lelio 
+- Brégnac Tom-Pierre
+- Cassier Logan
+- Lahboub Lina
+- Lardon Lelio 
 
 ### Sujet :
 #### Acquisition d'une grille de sudoku par vidéo et ressolution dela grille avec affichage dynamique depuis une interface graphique.
