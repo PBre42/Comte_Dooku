@@ -8,7 +8,7 @@
 - Lardon Lelio 
 
 ### Sujet :
-#### Acquisition d'une grille de sudoku par vidéo et ressolution de la grille avec affichage dynamique depuis une interface graphique.
+#### Acquisition d'une grille de sudoku par vidéo et résolution de la grille avec affichage dynamique depuis une interface graphique.
 
 ### Description du rendu final (IHM):
 
