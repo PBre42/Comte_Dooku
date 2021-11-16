@@ -23,15 +23,15 @@
 
 ### Répartition des tâches:
 
-- [] IHM 1 Bregnac 
+- [ ] IHM 1 Bregnac 
 
-- [] IHM 2 Lina
+- [ ] IHM 2 Lina
 
-- [] IHM 3
+- [ ] IHM 3
 
-- [] Métier 1 Lelio 
+- [ ] Métier 1 Lelio 
 
-- [] Métier 2 Logan  
+- [ ] Métier 2 Logan  
 
 
 
