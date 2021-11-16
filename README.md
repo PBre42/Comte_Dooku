@@ -13,20 +13,26 @@
 ### Description du rendu final (IHM):
 
 
-![This is an image](https://github.com/PBre42/Comte_Dooku/blob/main/Scheme.png?raw=true)
+![This is an image](/assets/images/Scheme.png)
 
 ### Planning previsionnel:
 
 
 
+
+
 ### Répartition des tâches:
 
-Bregnac IHM 1
+- [] IHM 1 Bregnac 
 
-Métier 1 lelio 
+- [] IHM 2 Lina
 
-Métier 2 
+- [] IHM 3
 
-IHM 2
+- [] Métier 1 Lelio 
+
+- [] Métier 2 Logan  
+
+
 
 
