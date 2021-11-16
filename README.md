@@ -43,9 +43,9 @@
 
 - [ ] IHM 1 : Interface graphique, acquisition des images (connection caméra etc) ***Pierre***
 
-- [ ] IHM 2 : Affichage sur la vidéo ***Logan***
+- [ ] IHM 2 : Affichage sur la vidéo ***Logan/Pierre***
 
-- [ ] IHM 3 (bonus) : Création une grille personnalisable ***Selon l’avancée***
+- [ ] IHM 3 (bonus) : Création une grille personnalisable ***Selon l’avancée/Pierre***
 
 - [ ] Métier 1 :  Détection chiffres sudoku (sur une grille png), Détection et suivi de la grille sur une vidéo ***Lelio/Lina*** 
 
