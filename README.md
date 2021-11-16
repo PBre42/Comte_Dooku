@@ -41,9 +41,9 @@
 
 ### Répartition des tâches:
 
-- [ ] IHM 1 Bregnac 
+- [ ] IHM 1 : Interface graphique, acquisition des images (connection caméra etc) Pierre
 
-- [ ] IHM 2 Lina
+- [ ] IHM 2 : Affichage sur la vidéo Logan
 
 - [ ] IHM 3
 
