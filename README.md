@@ -41,15 +41,15 @@
 
 ### Répartition des tâches:
 
-- [ ] IHM 1 : Interface graphique, acquisition des images (connection caméra etc) Pierre
+- [ ] IHM 1 : Interface graphique, acquisition des images (connection caméra etc) ***Pierre***
 
-- [ ] IHM 2 : Affichage sur la vidéo Logan
+- [ ] IHM 2 : Affichage sur la vidéo ***Logan***
 
-- [ ] IHM 3
+- [ ] IHM 3 (bonus) : Création une grille personnalisable ***Selon l’avancée***
 
-- [ ] Métier 1 Lelio 
+- [ ] Métier 1 :  Détection chiffres sudoku (sur une grille png), Détection et suivi de la grille sur une vidéo ***Lelio/Lina*** 
 
-- [ ] Métier 2 Logan  
+- [ ] Métier 2 : Résoudre un sudoku automatiquement ***Logan*** 
 
 
 
