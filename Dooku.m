@@ -5,3 +5,5 @@
 % personnalisables.
 
 %%
+
+g = get(h,'UserData');
