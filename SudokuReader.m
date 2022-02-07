@@ -23,6 +23,6 @@ Height =(yMax-yMin);
 I_crop = imcrop(Img_sudoku,[xMin yMin Width Height]);
 
 %% Remplir chiffre 
-[Plocal, Sudoku_Grille]=Identifier_Nombre(I_crop);
+[Plocal, Sudoku_Grille]=IdentifierNombre(I_crop);
 end
 
